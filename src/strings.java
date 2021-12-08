@@ -56,7 +56,7 @@ public class strings {
 
         //or this
          Scanner reader10 = new Scanner(System.in);
-         System.out.println("enter 10  numbers :");1
+         System.out.println("enter 10  numbers :");
 
          int [] eleven = new int[10];
 
